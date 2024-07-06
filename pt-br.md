@@ -2,10 +2,12 @@ Como conseguir ajuda sobre TI e ajudar de forma eficiente
 
 # Seja direto
 
+Não pergunte s pode perguntar, apenas pergunte.
+
 - https://dontasktoask.com/pt-br/
 
-# random
-Há diversas comunidades de tecnologia espalhadas por diversas plataformas, como telegram, slack, discord, gitter, matrix, twitter, etc. Estas comunidades podem ser utilizadas para compartilhar conhecimento, tirar dúvidas e auxiliar na resolução de problemas. Pessoas com os mais variados níveis de experiência interagem nestas comunidades. Neste texto reuni algumas dicas para conseguir ajuda e ajudar nessas comunidades de forma eficiente. Cada item é clicável para dar mais detalhes.
+# Disclaimer
+Há diversas comunidades de tecnologia espalhadas por diversas plataformas, como telegram, slack, discord, gitter, matrix, twitter, etc. Estas comunidades podem ser utilizadas para compartilhar conhecimento, tirar dúvidas e auxiliar na resolução de problemas. Pessoas com os mais variados níveis de experiência interagem nestas comunidades. Neste texto reuni algumas dicas para conseguir ajuda e ajudar nessas comunidades de forma eficiente.
 
 # Para quem procura ajuda
 ## 1. Não diga apenas olá, ou pergunte se pode perguntar
