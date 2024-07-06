@@ -1,5 +1,5 @@
-# help
-How to get help
+# HELP
+How to ask or offer help efficiently
 
 ## PT-BR version
 
